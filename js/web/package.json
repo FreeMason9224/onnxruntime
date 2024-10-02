@@ -15,7 +15,7 @@
     "long": "^5.2.3",
     "onnxruntime-common": "file:../common",
     "platform": "^1.3.6",
-    "protobufjs": "^7.2.4"
+    "protobufjs": "^7.4.0"
   },
   "scripts": {
     "preprepare": "node -e \"require('node:fs').copyFileSync('./node_modules/long/index.d.ts', './node_modules/long/umd/index.d.ts')\"",
