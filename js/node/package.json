@@ -16,7 +16,7 @@
   "version": "1.20.0",
   "dependencies": {
     "onnxruntime-common": "file:../common",
-    "tar": "^7.0.1"
+    "tar": "^7.4.3"
   },
   "scripts": {
     "postinstall": "node ./script/install",
